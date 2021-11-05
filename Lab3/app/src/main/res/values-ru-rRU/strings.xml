@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Лаб3</string>
+    <string name="nameAndSurname">Имя и Фамилия</string>
+    <string name="address">Адрес</string>
+    <string name="comment">Комментарий</string>
+    <string name="edit">Редактировать</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="country">Страна</string>
+    <string name="city">Город</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+</resources>
